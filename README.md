@@ -10,6 +10,6 @@ source env/bin/activate
 # To run the backend server
 python manage.py runserver
 
-
 # For Windows
 .\env\Scripts\activate
+

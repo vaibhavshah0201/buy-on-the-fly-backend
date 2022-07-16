@@ -1,2 +1,3 @@
 # To ignore env dir
 env
+backend/.env
